@@ -1,3 +1,21 @@
+/*Generali*/
+
+body {
+  margin: 0;
+}
+
+main,
+footer {
+  margin: 10px;
+}
+
+section {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+/* header */
 header {
   background-color: #4DA1FF;
   height: 100px;
@@ -7,4 +25,41 @@ header {
 
 header img {
   height: 50px;
+}
+
+
+/* sezione articolo */
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 0;
+}
+
+span {
+  color: gray;
+}
+
+#dataspan {
+  color: gray;
+  font-size: 0.8em;
+
+}
+
+a {
+  text-decoration: none;
+  color: #60B7D1;
+}
+
+.foto-descrition {
+  color: black;
+  font-size: 0.8em;
+}
+
+.evidenziato {
+  background-color: yellow;
+  color: black;
+}
+
+ul {
+  padding-left: 15px;
 }
