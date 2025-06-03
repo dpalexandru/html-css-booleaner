@@ -63,3 +63,20 @@ a {
 ul {
   padding-left: 15px;
 }
+
+/* stile tabella*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  /* Evita doppio bordo */
+
+}
+
+th {
+  background-color: #21A9E6;
+}
+
+.riga-blu-leggero {
+  background-color: #ceeaf7;
+  ;
+}
