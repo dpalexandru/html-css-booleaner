@@ -1,0 +1,10 @@
+header {
+  background-color: #4DA1FF;
+  height: 100px;
+  background-image: url('../img/pattern.png');
+  background-size: 40%;
+}
+
+header img {
+  height: 50px;
+}
