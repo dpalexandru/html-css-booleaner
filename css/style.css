@@ -68,8 +68,7 @@ ul {
 table {
   width: 100%;
   border-collapse: collapse;
-  /* Evita doppio bordo */
-
+  text-align: left;
 }
 
 th {
@@ -79,4 +78,14 @@ th {
 .riga-blu-leggero {
   background-color: #ceeaf7;
   ;
+}
+
+.colonna-uno,
+.colonna-due {
+  width: 25%;
+
+}
+
+.colonna-tre {
+  width: 50%;
 }
