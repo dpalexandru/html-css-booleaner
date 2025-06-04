@@ -18,16 +18,19 @@ section {
 /* header */
 header {
   background-color: #4DA1FF;
-  height: 100px;
+  height: 50px;
   background-image: url('../img/pattern.png');
   background-size: 40%;
-  position: relative;
+  padding-left: 10px;
+  padding-top: 45px;
+
 }
 
-header img {
+header div {
+  width: 200px;
   height: 50px;
-  position: absolute;
-  bottom: 10px;
+
+
 }
 
 
